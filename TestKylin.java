@@ -40,5 +40,6 @@ public class TestKylin {
         while (resultSet.next()) {
             System.out.println(resultSet.getString(1));
         }
+        //更新
     }
 }
